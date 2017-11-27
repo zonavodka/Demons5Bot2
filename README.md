@@ -1,0 +1,2 @@
+# Demons5Bot2
+helpMessage ="""DEMONS BOT Owner : ✰VAL✰ -==================- ◄]·♦·Menu For Public·♦·[► [•]Adminlist [•]Ownerlist [•]Info Group [•]Welcome [•]Creator [•]Bot ◄]·♦·Menu For Admin·♦·[► -==================- [•]Cancel [•]「Buka/Tutup」qr [•]Mid Bot [•]Speed/Sp [•]「Cctv/Ciduk」 [•]Status/Set [•]Gurl [•]Jam「On/Off」 [•]Tag all/Tagall [•]Absen/Respon [•]Banlist >>[Perintah Proteksi]&lt;&lt; 👑Hanya Untuk Owner👑 -==================- [DEMONS BOT] -==================-
